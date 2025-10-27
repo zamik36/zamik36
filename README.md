@@ -1,5 +1,25 @@
-# 💫 About Me:
-My name is Ilya Zametaev, I am a Computer Science student at VSU with a degree in Software Engineering and a novice Python developer with experience in backend development and CRM system integration.<br><br>I am actively developing in the following areas:<br>🔹 Backend development (FastAPI, asyncio, aiohttp)<br>🔹 Working with databases<br>🔹 API and integration (interaction with Bitrix24, amoCRM, external APIs, Webhooks)<br>🔹 ML and Olympiad programming — I am fond of solving algorithmic problems (Codeforces)<br><br>I have 6 months of practical experience in a company where I have developed various automated solutions for processing CSV data, parsing, building full-fledged web services, etc. I write clean, testable code, and adhere to the principles of SOLID, DRY, KISS, and YAGNI. I use pytest, Selenium, Docker and Git in my daily work.<br><br>Completed training at Yandex.At the Python workshop and at the courses of the Faculty of Computer Science of the VSU. I confidently read technical documentation in English (Intermediate), I easily adapt to new technologies and teamwork.
+## 💫 About Me
+
+My name is **Ilya Zametaev**, I am a **Computer Science student at VSU** majoring in **Software Engineering** and a **Python developer** with experience in **backend development** and **CRM system integration**.
+
+I am actively developing in the following areas:
+
+- **Backend development** — FastAPI, asyncio, aiohttp  
+- **Microservices architecture** — design and development of distributed systems  
+- **High-load applications** — experience in building scalable and fault-tolerant backends  
+- **Databases and message brokers** — PostgreSQL, Redis, Kafka  
+- **Monitoring and observability** — Grafana, Prometheus, Elasticsearch  
+- **API and integrations** — Bitrix24, amoCRM, external APIs, Webhooks  
+- **Machine Learning and Neural Networks** — model development and experimentation  
+- **Algorithmic problem solving** — Codeforces participant  
+
+I have **1 year of practical experience** in a company where I developed various **automated solutions** for CSV data processing, **web parsers**, and **full-fledged web services**.  
+I write **clean, testable code** and follow the principles of **SOLID**, **DRY**, **KISS**, **YAGNI** and etc.
+
+I also have experience designing and implementing **microservice-based applications** and **high-performance backend systems**, as well as developing **ML models** for applied tasks.
+
+I completed training at **Yandex.Practicum** and at the **Faculty of Computer Science, VSU**.  
+I confidently read technical documentation in **English (Intermediate)** and easily adapt to **new technologies** and **team environments**.
 
 
 ## 🌐 Socials:
